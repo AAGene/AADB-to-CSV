@@ -1,0 +1,26 @@
+{
+    "file": "localized_text_dump.CEM",
+    "tables": [
+        {
+            "name": "localized_texts",
+            "columns": [
+                {
+                    "name": "tbl_name",
+                    "type": 1
+                },
+                {
+                    "name": "tbl_column_name",
+                    "type": 1
+                },
+                {
+                    "name": "idx",
+                    "type": 4
+                },
+                {
+                    "name": "en_us",
+                    "type": 1
+                }
+            ]
+        }
+    ]
+}

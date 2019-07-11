@@ -1,0 +1,19 @@
+{
+  "name": "db-to-sql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "build": "npm run tsc && node build/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "tsc"
+  },
+  "author": "Gene",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^12.6.2",
+    "@types/screeps-profiler": "^1.2.2",
+    "screeps-profiler": "^2.0.1",
+    "typescript": "^3.5.3"
+  }
+}
